@@ -7,6 +7,9 @@ function solution(star) {
 solution(5);
 
 /*
+
+
+
  *****
  ****
  ***
